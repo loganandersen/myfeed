@@ -9,5 +9,7 @@ Guile 3.0 or higher
 - create .config/myfeed/ folder (mkdir .config/myfeed) 
 - mv config.scm .config/myfeed
 - edit config.scm to have the files you want to store your links in.
+  The website field is just a comment.
+  The input filename and output filenames should probably be the same filename
 
 - move myfeed.scm to a path folder and give chmod 755.
